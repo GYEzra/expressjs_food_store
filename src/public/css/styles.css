@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #3b3939;
+}
+
+li {
+    padding: 20px;
+    display: inline;
+}
+
+li:hover a {
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    display: inline;
+}
+
+form {
+    width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #ccc;
+}
+
+fieldset {
+    padding: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.container {
+    padding: 20px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.table-title td {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.update-link {
+    color: green;
+    font-size: 16px;
+}

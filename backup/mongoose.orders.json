@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "655f37af81604585b2db7d23"
+  },
+  "userId": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "name": "Trần Thị Cẩm Tú",
+  "address": "21/2 Hoàng Việt Quận Tân Bình",
+  "note": "Ngoài giờ hành chính",
+  "phone": "0783331515",
+  "shippingCost": 25000,
+  "totalPrice": 883503,
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": "Hoàn thành",
+  "cart": [
+    {
+      "product": {
+        "$oid": "654598e60a8b4740265e228b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f37af81604585b2db7d24"
+      }
+    },
+    {
+      "product": {
+        "$oid": "655b0047eded0607abf2a20a"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "655f37af81604585b2db7d25"
+      }
+    },
+    {
+      "product": {
+        "$oid": "655b00eceded0607abf2a20c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f37af81604585b2db7d26"
+      }
+    }
+  ],
+  "voucher": {
+    "$oid": "65571b194ec428462c13b1fc"
+  },
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:29:51.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:29:51.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f37f081604585b2db7d39"
+  },
+  "userId": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "name": "Trần Thị Cẩm Tú",
+  "address": "506/19/20 Đường 3/2 Quận 10",
+  "note": "",
+  "phone": "0783331515",
+  "shippingCost": 25000,
+  "totalPrice": 1310000,
+  "paymentMethod": "Thanh toán bằng ví Momo",
+  "status": "Hoàn thành",
+  "cart": [
+    {
+      "product": {
+        "$oid": "655b06f7eded0607abf2a31f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f37f081604585b2db7d3a"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-12-23T11:30:56.095Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-23T11:30:56.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3a6481604585b2db7d7d"
+  },
+  "userId": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "name": "Lê Quang Nhật",
+  "address": "TPHCM",
+  "note": "",
+  "phone": "0857254312",
+  "shippingCost": 25000,
+  "totalPrice": 245000,
+  "paymentMethod": "Thanh toán bằng ví Momo",
+  "status": "Hoàn thành",
+  "cart": [
+    {
+      "product": {
+        "$oid": "655b00eceded0607abf2a20c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f3a6481604585b2db7d7e"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T11:41:24.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T11:41:24.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3b8b81604585b2db7da4"
+  },
+  "userId": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "name": "Lê Quang Nhật",
+  "address": "TPHCm",
+  "note": "",
+  "phone": "0856127651",
+  "shippingCost": 25000,
+  "totalPrice": 65000,
+  "paymentMethod": "Thanh toán bằng ví Momo",
+  "status": "Hoàn thành",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65459df90a8b4740265e233e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f3b8b81604585b2db7da5"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:46:19.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:50:27.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3d3881604585b2db7de2"
+  },
+  "userId": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "name": "Lê Quang Nhật",
+  "address": "TPHCM",
+  "note": "",
+  "phone": "0856127632",
+  "shippingCost": 25000,
+  "totalPrice": 2025000,
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": "Hoàn thành",
+  "cart": [
+    {
+      "product": {
+        "$oid": "655b073feded0607abf2a321"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655f3d3881604585b2db7de3"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:53:28.012Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:53:28.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3e7881604585b2db7e14"
+  },
+  "userId": {
+    "$oid": "655f3244c8cf49e1051a7f78"
+  },
+  "name": "Giang Đức Huy",
+  "address": "TPHCM",
+  "phone": "0856774737",
+  "shippingCost": 20000,
+  "totalPrice": 170000,
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": "Hủy đơn hàng",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65459d890a8b4740265e233a"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "655596f5bb2e50616ed4042c"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:58:48.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:58:48.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3f1e81604585b2db7e4a"
+  },
+  "userId": {
+    "$oid": "655f3244c8cf49e1051a7f78"
+  },
+  "name": "Giang Đức Huy",
+  "address": "TPHCM",
+  "phone": "0856774737",
+  "shippingCost": 20000,
+  "totalPrice": 170000,
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": "Chờ thanh toán",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65459d890a8b4740265e233a"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "655596f5bb2e50616ed4042c"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-23T12:01:34.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T12:21:41.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3f5f81604585b2db7e4e"
+  },
+  "userId": {
+    "$oid": "655f3244c8cf49e1051a7f78"
+  },
+  "name": "Giang Đức Huy",
+  "address": "TPHCM",
+  "phone": "0856774737",
+  "shippingCost": 20000,
+  "totalPrice": 170000,
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": "Hủy đơn hàng",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65459d890a8b4740265e233a"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "655596f5bb2e50616ed4042c"
+      }
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T12:02:39.206Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T12:02:39.206Z"
+  },
+  "__v": 0
+}]

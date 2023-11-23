@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65560c97459da1f8ce9271d6"
+  },
+  "code": "CHUCMUNGLE2023",
+  "description": "Khuyến mãi dành tặng cho ngày lễ ngày 20-11",
+  "discount": 30000,
+  "quantity": 20,
+  "expired_date": {
+    "$date": "2023-11-20T00:00:00.000Z"
+  },
+  "status": "Còn hiệu lực",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-16T12:35:35.817Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T14:37:35.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65571b194ec428462c13b1fc"
+  },
+  "code": "KHAITRUONG",
+  "description": "Khuyến mãi mừng ngày khai trương cửa hàng, đặc biệt chỉ dành cho 100 khách hàng sớm nhất.",
+  "discount": 40000,
+  "quantity": 97,
+  "expired_date": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "status": "Còn hiệu lực",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-17T07:49:45.056Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:29:51.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65571cd94ec428462c13b1ff"
+  },
+  "code": "CUOITUAN",
+  "description": "Khuyến mãi cuối tuần, áp dụng giảm giá 10k cho các đơn hàng 0đ",
+  "discount": 10000,
+  "quantity": 200,
+  "expired_date": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "status": "Còn hiệu lực",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-17T07:57:13.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T07:57:13.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65571e764ec428462c13b20a"
+  },
+  "code": "QUATANGKEM",
+  "description": "Khuyến mãi tặng kèm cho mỗi đơn hàng",
+  "discount": 5000,
+  "quantity": 200,
+  "expired_date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  },
+  "status": "Hết hiệu lực",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-17T08:04:06.878Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T09:52:41.431Z"
+  },
+  "__v": 0
+}]

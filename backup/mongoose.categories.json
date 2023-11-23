@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "name": "Trái Cây",
+  "description": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-07T14:15:44.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:03:07.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "name": "Giỏ Trái Cây",
+  "description": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T06:58:59.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:03:01.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b048aeded0607abf2a2b8"
+  },
+  "name": "Giỏ Quà Chúc Mừng",
+  "description": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:02:34.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:02:34.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0491eded0607abf2a2bb"
+  },
+  "name": "Giỏ Quà Tết",
+  "description": null,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:02:41.160Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:02:41.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655d8c5c5d3beab6e4d04c7c"
+  },
+  "name": "test2",
+  "description": "",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-11-22T05:06:36.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T05:07:03.733Z"
+  },
+  "__v": 0
+}]

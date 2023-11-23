@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "654598e60a8b4740265e228b"
+  },
+  "name": "Dâu tây",
+  "image": "https://dalatfarm.net/wp-content/uploads/2020/12/dau-tay-da-lat.jpg",
+  "price": 50003,
+  "quantity": 1894,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Dâu tây là một chi thực vật hạt kín và là loài thực vật có hoa thuộc họ Hoa hồng. Dâu tây xuất xứ từ châu Mỹ và được các nhà làm vườn châu Âu cho lai tạo vào thế kỷ 18 để tạo nên giống dâu tây được trồng rộng rãi hiện nay. Loài này được Duchesne miêu tả khoa học đầu tiên năm 1788",
+  "feedbacks": [
+    {
+      "$oid": "655f396b81604585b2db7d48"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-04T01:05:42.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:37:15.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65459d890a8b4740265e233a"
+  },
+  "name": "Táo xanh",
+  "image": "https://product.hstatic.net/1000282430/product/tao_xanh_my_grande.jpg",
+  "price": 50000,
+  "quantity": 121,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Táo xanh và táo đỏ chứa thành phần dinh dưỡng tương tự nhau. Táo xanh Mỹ có vị chua hơn và vỏ dày hơn so với táo đỏ. So với táo đỏ, táo xanh có ít đường và carbs hơn, đồng thời có nhiều chất xơ, protein, kali, sắt,  vitamin K và vitamin A hơn. Mặt khác, táo đỏ lại chứa nhiều chất chống oxy hóa hơn táo xanh.",
+  "feedbacks": [
+    {
+      "$oid": "654a4fb73f5e0ff697bd5a57"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-04T01:25:29.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T12:02:39.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65459dc70a8b4740265e233c"
+  },
+  "name": "Nho xanh không hạt",
+  "image": "https://cdn-img-v2.webbnc.net//uploadv2/web/46/4678/product/2017/05/15/01/13/1494810010_nho-xanh-khong-hat-australia.jpg",
+  "price": 50000,
+  "quantity": 0,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Nho là một loại quả mọng lấy từ các loài cây thân leo thuộc chi Nho (Vitis). Quả nho mọc thành chùm từ 6 đến 300 quả, chúng có màu đen, lam, vàng, lục, ...\n",
+  "feedbacks": [
+    {
+      "$oid": "654afd4c0eef826eedae18a2"
+    },
+    {
+      "$oid": "654b00a80eef826eedae1919"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-04T01:26:31.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-11T15:41:39.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65459df90a8b4740265e233e"
+  },
+  "name": "Cam sành",
+  "image": "https://img.freepik.com/free-photo/orange-white-white_144627-16571.jpg?size=626&ext=jpg&ga=GA1.1.508682295.1699410879&semt=sph",
+  "price": 40000,
+  "quantity": 93,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Cam sành là một giống cây ăn quả thuộc chi Cam chanh có quả gần như quả cam (Citrus reticulata x maxima), có nguồn gốc từ Việt Nam. Quả cam sành rất dễ nhận ra nhờ lớp vỏ dày, sần sùi giống bề mặt mảnh sành và thường có màu lục nhạt (khi chín có sắc cam), các múi thịt có màu cam.\n\nCam sành được gắn nhiều tên khoa học khác nhau như Citrus nobilis,[1][2] Citrus reticulata,[3] hay Citrus sinensis,[4] trên thực tế nó là giống lai tự nhiên: C. reticulata x C. sinensis (tên tiếng Anh: king mandarin).[5][6]",
+  "feedbacks": [
+    {
+      "$oid": "655f3cb781604585b2db7dc2"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-04T01:27:21.797Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:51:19.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0047eded0607abf2a20a"
+  },
+  "name": "Kiwi Xanh New Zealand",
+  "image": "https://img.freepik.com/free-vector/realistic-fruits-composition-with-images-whole-sliced-kiwi-fruit-blank-background-vector-illustration_1284-66048.jpg?w=826&t=st=1700462601~exp=1700463201~hmac=fd8f6519da9849320cd7dd20d57df263c4dfe298ebafaf968533b42",
+  "price": 209500,
+  "quantity": 45,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Kiwi là một trong 27 loại trái cây được bình chọn là giàu dinh dưỡng nhất. Kiwi xanh có hình dạng bầu dục, lông mượt, kích thước tương đương một quả trứng vit, vỏ xanh. Bên trong thịt có màu xanh lục, tâm điểm có hạt đen li ti, nhiều nước, thịt mềm mang đến hương vị thơm đặc trưng, ngọt chua, mềm.",
+  "feedbacks": [
+    {
+      "$oid": "655f398281604585b2db7d4b"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T06:44:23.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:37:38.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b00eceded0607abf2a20c"
+  },
+  "name": "Sầu Riêng Sơn La",
+  "image": "https://img.freepik.com/premium-photo/durian-fruit-with-cut-half-leaves-isolated-white-background_252965-1048.jpg?size=626&ext=jpg&ga=GA1.1.508682295.1699410879&semt=sph",
+  "price": 220000,
+  "quantity": 178,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Cây na sầu riêng là loại cây được trồng chủ yếu ở các khu vực nhiệt đới. Nguồn gốc của nó bắt nguồn từ Đài Loan Trung Quốc. Lá na sầu riêng mỏng, hình bầu dục, mặt sau có màu xanh nhạt, mọc 4 phía quanh thân. Hoa thường mọc đơn độc hoặc 2 – 4 cụm trên ngọn cành hoặc mọc đối diện lá. Hoa có màu vàng nhạt, cánh hẹp, dày, hình thuôn, đài hoa hình tam giác.",
+  "feedbacks": [
+    {
+      "$oid": "655f3a0581604585b2db7d6e"
+    },
+    {
+      "$oid": "655f3d0081604585b2db7dca"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T06:47:08.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:52:32.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0160eded0607abf2a240"
+  },
+  "name": "Lựu Thái",
+  "image": "https://img.freepik.com/premium-photo/pomegranate-isolated-white-bsckground_174714-293.jpg?size=626&ext=jpg&ga=GA1.1.508682295.1699410879&semt=sph",
+  "price": 299000,
+  "quantity": 200,
+  "categories": {
+    "$oid": "654a46903f5e0ff697bd5935"
+  },
+  "description": "Lựu Thái Lan là loại quả nhập khẩu có vỏ ngoài màu vàng có chỗ ửng hồng khá mỏng, trọng lượng trung bình từ 400-600gr/trái. Hạt lựu bên trong có màu hồng đỏ kèm theo vị dịu ngọt, không chua và nhiều nước. Khi ăn, hạt lựu rất nhất nên có thể nhai và ăn luôn, tuyệt đối không đắng nên nếu có nhai luôn hạt thì cũng không xảy ra vấn đề gì, đồng thời bạn cũng có thể ăn nhả hạt.",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T06:49:04.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T06:49:04.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b050deded0607abf2a2d5"
+  },
+  "name": "Giỏ Trái Cây Việt Quất",
+  "image": "https://vinfruits.com/wp-content/uploads/2023/02/9-01.png",
+  "price": 650000,
+  "quantity": 43,
+  "categories": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch.",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:04:45.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:04:45.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0560eded0607abf2a2e0"
+  },
+  "name": "Giỏ Trái Cây Cherry",
+  "image": "https://vinfruits.com/wp-content/uploads/2023/02/sp-04-2-768x768.png",
+  "price": 850000,
+  "quantity": 45,
+  "categories": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch. ",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:06:08.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:06:08.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b05a1eded0607abf2a2e2"
+  },
+  "name": "Giỏ Trái Cây Chocolate + Dâu Tây",
+  "image": "https://vinfruits.com/wp-content/uploads/2023/02/8-05.png",
+  "price": 850000,
+  "quantity": 30,
+  "categories": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch.",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:07:13.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:07:13.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b0618eded0607abf2a2fe"
+  },
+  "name": "Giỏ Trái Cây + Nước Nhân Sâm 2",
+  "image": "https://vinfruits.com/wp-content/uploads/2023/07/3-01-1.png",
+  "price": 1350000,
+  "quantity": 30,
+  "categories": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch. ",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:09:12.239Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:10:20.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b069beded0607abf2a30d"
+  },
+  "name": "Giỏ Trái Cây Tình Yêu",
+  "image": "https://vinfruits.com/wp-content/uploads/2022/05/5-10.png",
+  "price": 1500000,
+  "quantity": 120,
+  "categories": {
+    "$oid": "655b03b3eded0607abf2a276"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉnh chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch.",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:11:23.079Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:11:23.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b06f7eded0607abf2a31f"
+  },
+  "name": "Giỏ Trái Cây Chúc Sức Khỏe",
+  "image": "https://vinfruits.com/wp-content/uploads/2022/05/5-14.png",
+  "price": 1285000,
+  "quantity": 19,
+  "categories": {
+    "$oid": "655b048aeded0607abf2a2b8"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉnh chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch.",
+  "feedbacks": [
+    {
+      "$oid": "655f3a1b81604585b2db7d71"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:12:55.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:40:11.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b073feded0607abf2a321"
+  },
+  "name": "Giỏ Trái Cây Ra Mắt",
+  "image": "https://vinfruits.com/wp-content/uploads/2022/05/3-09.png",
+  "price": 2000000,
+  "quantity": 119,
+  "categories": {
+    "$oid": "655b048aeded0607abf2a2b8"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉnh chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch.",
+  "feedbacks": [
+    {
+      "$oid": "655f3d5b81604585b2db7df0"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:14:07.980Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:54:03.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b07d4eded0607abf2a323"
+  },
+  "name": "Giỏ Trái Cây Khoe Sắc",
+  "image": "https://vinfruits.com/wp-content/uploads/2022/12/1-13.png",
+  "price": 2000000,
+  "quantity": 15,
+  "categories": {
+    "$oid": "655b0491eded0607abf2a2bb"
+  },
+  "description": "uà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch. ",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:16:36.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T07:16:36.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b081ceded0607abf2a32b"
+  },
+  "name": "Giỏ Trái Cây Sung Túc",
+  "image": "https://vinfruits.com/wp-content/uploads/2022/12/1-01.png",
+  "price": 2000000,
+  "quantity": 20,
+  "categories": {
+    "$oid": "655b0491eded0607abf2a2bb"
+  },
+  "description": "Quà tặng là một sự thay mặt và là sự gửi trao yêu thương đầy chân thành của người gửi dành cho người nhận. Bộ sưu tập Quà tặng trái cây của VinFruits ra đời nhằm đáp ứng nhu cầu tìm mua một món quà ý nghĩa của Quý khách hàng, đó là một món quà trang trọng – chỉn chu –  tinh tế và đầy thiết thực để gửi đến một ai đó.\n\nPhong phú với những loại trái cây nhập khẩu hạng nhất được lựa chọn kỹ lưỡng và tỉ mỉ theo tiêu chuẩn 3C: Chuẩn tươi – Chuẩn ngon – Chuẩn sạch. ",
+  "feedbacks": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-20T07:17:48.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T05:06:54.859Z"
+  },
+  "__v": 0
+}]

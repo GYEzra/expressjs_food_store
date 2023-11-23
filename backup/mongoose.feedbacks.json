@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "655f396b81604585b2db7d48"
+  },
+  "user": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "product": {
+    "$oid": "654598e60a8b4740265e228b"
+  },
+  "score": 5,
+  "note": "Tôi rất hài lòng với chất lượng trái cây tại cửa hàng này.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:37:15.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:37:15.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f398281604585b2db7d4b"
+  },
+  "user": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "product": {
+    "$oid": "655b0047eded0607abf2a20a"
+  },
+  "score": 5,
+  "note": "Trái cây tại đây rất ngon và sạch. Tôi thích nhất là các loại trái cây nhập khẩu như táo, nho, lê, kiwi,… ",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:37:38.874Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:37:38.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3a0581604585b2db7d6e"
+  },
+  "user": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "product": {
+    "$oid": "655b00eceded0607abf2a20c"
+  },
+  "score": 3,
+  "note": "Tôi là khách hàng thường xuyên của cửa hàng trái cây này.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:39:49.050Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:39:49.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3a1b81604585b2db7d71"
+  },
+  "user": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "product": {
+    "$oid": "655b06f7eded0607abf2a31f"
+  },
+  "score": 5,
+  "note": "Trái cây luôn tươi mới và ngon. Nhân viên cũng rất thân thiện và tư vấn chu đáo. Tôi rất hài lòng và sẽ giới thiệu cho người thân",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:40:11.440Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:40:11.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3cb781604585b2db7dc2"
+  },
+  "user": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "product": {
+    "$oid": "65459df90a8b4740265e233e"
+  },
+  "score": 5,
+  "note": "Trái cây tại đây rất ngon và tươi, có nhiều loại để lựa chọn. Tôi rất hài lòng và sẽ mua lại",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:51:19.692Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:51:19.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3d0081604585b2db7dca"
+  },
+  "user": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "product": {
+    "$oid": "655b00eceded0607abf2a20c"
+  },
+  "score": 4,
+  "note": "Tôi rất ấn tượng với cách trưng bày trái cây bắt mắt và hấp dẫn. Trái cây luôn tươi mới và ngon. ",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:52:32.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:52:32.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f3d5b81604585b2db7df0"
+  },
+  "user": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "product": {
+    "$oid": "655b073feded0607abf2a321"
+  },
+  "score": 5,
+  "note": "ôi mua trái cây tại đây để làm quà tặng cho bạn bè và gia đình. Tôi rất hài lòng với cách đóng gói trái cây đẹp mắt và sang trọng. Trái cây rất ngon và tươi.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:54:03.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:54:03.842Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "655f3206c8cf49e1051a7f6f"
+  },
+  "username": "admin",
+  "password": "$2a$10$4tF14xWUJhG4eIdYEmMG.OZHyvWnj5uTTv493u1ZUAupzcNGVdYcW",
+  "role": "Quản trị viên",
+  "name": "Phạm Duy Khánh",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-23T11:05:42.797Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:54:42.440Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTVmMzIwNmM4Y2Y0OWUxMDUxYTdmNmYiLCJ1c2VybmFtZSI6ImFkbWluIiwicm9sZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsIm5hbWUiOiJQaOG6oW0gRHV5IEtow6FuaCIsInN0YXR1cyI6Ikhv4bqhdCDEkeG7mW5nIiwiZXhwaXJlc0luIjoiMWgiLCJpYXQiOjE3MDA3NDA0ODIsImV4cCI6MTcwMDc0NDA4Mn0.rN5e1gFL8fa8y96af6ca7qkZDgBIOefYZ3rqH_CUkwY"
+},
+{
+  "_id": {
+    "$oid": "655f322cc8cf49e1051a7f72"
+  },
+  "username": "camtu2003",
+  "password": "$2a$10$Tuq0.N3Be2rGKpjjcn2btezm7h.t4xdqmE5yZnXFLUI1qkh2xwNHK",
+  "role": "Khách hàng",
+  "name": "Trần Thị Cẩm Tú",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:06:20.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:26:56.986Z"
+  },
+  "__v": 0,
+  "address": "Thành Phố HCM",
+  "email": "info@lacco.com.vn",
+  "gender": "option2",
+  "phone": "0332132343",
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTVmMzIyY2M4Y2Y0OWUxMDUxYTdmNzIiLCJ1c2VybmFtZSI6ImNhbXR1MjAwMyIsInJvbGUiOiJLaMOhY2ggaMOgbmciLCJuYW1lIjoiVHLhuqduIFRo4buLIEPhuqltIFTDuiIsImVtYWlsIjoiaW5mb0BsYWNjby5jb20udm4iLCJwaG9uZSI6IjAzMzIxMzIzNDMiLCJhZGRyZXNzIjoiVGjDoG5oIFBo4buRIEhDTSIsImdlbmRlciI6Im9wdGlvbjIiLCJzdGF0dXMiOiJIb-G6oXQgxJHhu5luZyIsImV4cGlyZXNJbiI6IjFoIiwiaWF0IjoxNzAwNzM4ODE2LCJleHAiOjE3MDA3NDI0MTZ9.TSMvg3VqQ8lDeKsUf3MwdHCk5A9_f9Nfqb2AOslTqq8"
+},
+{
+  "_id": {
+    "$oid": "655f323ac8cf49e1051a7f75"
+  },
+  "username": "quangnhat2003",
+  "password": "$2a$10$PN8R7lADA65tMpdopGJCdeVM8DirqvrQqvJVYSVMVAI0JPfJGAKyS",
+  "role": "Khách hàng",
+  "name": "Lê Quang Nhật",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:06:34.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:40:45.011Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "vijaigroupsg@gmail.com",
+  "gender": "option1",
+  "phone": "0373396013",
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTVmMzIzYWM4Y2Y0OWUxMDUxYTdmNzUiLCJ1c2VybmFtZSI6InF1YW5nbmhhdDIwMDMiLCJyb2xlIjoiS2jDoWNoIGjDoG5nIiwibmFtZSI6IkzDqiBRdWFuZyBOaOG6rXQiLCJlbWFpbCI6InZpamFpZ3JvdXBzZ0BnbWFpbC5jb20iLCJwaG9uZSI6IjAzNzMzOTYwMTMiLCJhZGRyZXNzIjoiVGjDoG5oIHBo4buRIEhDTSIsImdlbmRlciI6Im9wdGlvbjEiLCJzdGF0dXMiOiJIb-G6oXQgxJHhu5luZyIsImV4cGlyZXNJbiI6IjFoIiwiaWF0IjoxNzAwNzM5NjQ1LCJleHAiOjE3MDA3NDMyNDV9.9QqnrcUC3e4uMbrE6kn9-XAPzeEOk9swmTBpb8EkuQg"
+},
+{
+  "_id": {
+    "$oid": "655f3244c8cf49e1051a7f78"
+  },
+  "username": "duchuy2003",
+  "password": "$2a$10$DyT9P9hJ3b9PqRl3bVpI5OdvkmmHEl5ODgYmGpYkTLZRjmoty.zzO",
+  "role": "Khách hàng",
+  "name": "Giang Đức Huy",
+  "status": "Ngừng hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:06:44.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T12:07:05.701Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "csoadong@gmail.com",
+  "gender": "",
+  "phone": "0387948653"
+},
+{
+  "_id": {
+    "$oid": "655f3255c8cf49e1051a7f7b"
+  },
+  "username": "tiendat2003",
+  "password": "$2a$10$5KRmW2Ja8QuMKIPnfXSC1uvT1hbK6cpWqwT3Ad6ludBR6KIZeC3f.",
+  "role": "Khách hàng",
+  "name": "Đỗ Tiến Đạt",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:07:01.513Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T12:07:24.254Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "thanhlongfwd@hcm.vnn.vn",
+  "gender": "option1",
+  "phone": "0586090590"
+},
+{
+  "_id": {
+    "$oid": "655f3269c8cf49e1051a7f7e"
+  },
+  "username": "chicuong2003",
+  "password": "$2a$10$mjUOT2C1qgaVNz7ADmdWQO0WbLbsPh.bZdvu7Kk6aRfJuIn32TNTm",
+  "role": "Khách hàng",
+  "name": "Lưu Chí Cường",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:07:21.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:20:57.295Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "phuthanhphat@ymail.com",
+  "gender": "option1",
+  "phone": "0365391720"
+},
+{
+  "_id": {
+    "$oid": "655f327fc8cf49e1051a7f81"
+  },
+  "username": "minhduong2003",
+  "password": "$2a$10$9LWfeUv0ymEPB2Tkw5LbAutu4u0Rd24bfHMpHUx3AMdildWJR9l8W",
+  "role": "Khách hàng",
+  "name": "Trịnh Minh Dương",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:07:43.008Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:21:50.223Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "vantaiduongviet@gmail.com",
+  "gender": "option1",
+  "phone": "0376534581"
+},
+{
+  "_id": {
+    "$oid": "655f3298c8cf49e1051a7f84"
+  },
+  "username": "tuankiet2003",
+  "password": "$2a$10$Rp9gn87.1aSnGHgWnYDceOD1CnZ8AXxqfFgcgqFwD4hakKRCe1Nai",
+  "role": "Khách hàng",
+  "name": "Nguyễn Tuấn Kiệt",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-11-24T11:08:08.241Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-24T11:22:15.862Z"
+  },
+  "__v": 0,
+  "address": "Thành phố HCM",
+  "email": "co.ltd.manhdung@gmail.com",
+  "gender": "option1",
+  "phone": "0357873124"
+},
+{
+  "_id": {
+    "$oid": "655f338181604585b2db7c8a"
+  },
+  "username": "viechinh2000",
+  "password": "$2a$10$ZI8FphUw94g2vIjoWPnJPubk/i7Xax.8F38BR8sE6Ut4oxYSv1eLK",
+  "role": "Khách hàng",
+  "name": "Phạm Viễn Chinh",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:12:01.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:22:41.881Z"
+  },
+  "__v": 0,
+  "address": "Bình Dương",
+  "email": "huonggiangachau@gmail.com",
+  "gender": "option1",
+  "phone": "0376534581"
+},
+{
+  "_id": {
+    "$oid": "655f339b81604585b2db7c8d"
+  },
+  "username": "hoainam2002",
+  "password": "$2a$10$VzB8NulTcdUf8.IZKMPL4O4acUwbtTH/QqTnqK3TAytoVLUImR8ri",
+  "role": "Khách hàng",
+  "name": "Nguyễn Hoài Nam",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:12:27.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:23:18.156Z"
+  },
+  "__v": 0,
+  "address": "TP Vĩnh Long",
+  "email": "smavn@smavn.com",
+  "gender": "option1",
+  "phone": "0345436491"
+},
+{
+  "_id": {
+    "$oid": "655f340181604585b2db7c90"
+  },
+  "username": "minhnhut1999",
+  "password": "$2a$10$KQ0d0GurLP79pgJYB4ahg.5PoxiQ46xdNZo1xGQPir5RiUNH3g0/u",
+  "role": "Khách hàng",
+  "name": "Minh Nựt",
+  "status": "Hoạt động",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-23T11:14:09.403Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T11:23:44.831Z"
+  },
+  "__v": 0,
+  "address": "Bình Dương",
+  "email": "lina@goldenmark.org",
+  "gender": "option1",
+  "phone": "0357873124"
+}]
