@@ -1,4 +1,5 @@
 const Category = require('../models/Category.js');
+const Product = require('../models/Product.js');
 const aqp = require('api-query-params');
 
 const gCategory = async (limit, page, queryString) => {
@@ -55,10 +56,25 @@ const uCategory = async (data) => {
 
 const dCategory = async (id) => {
     try {
-        let result = await Category.deleteById(id);
-        return result
+        let product = await Product.findOne({ categories: id });
+
+        if (!product) {
+            let result = await Category.deleteById(id);
+            return {
+                EC: 0,
+                data: result
+            }
+        } else {
+            return {
+                EC: -1,
+                errorMessage: 'Tồn tại sản phẩm trong danh mục'
+            }
+        }
     } catch (error) {
-        return error;
+        return {
+            EC: -1,
+            errorMessage: 'Lỗi hệ thống'
+        }
     }
 }
 

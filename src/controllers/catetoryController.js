@@ -46,10 +46,7 @@ const deleteCategory = async (req, res) => {
     let result = await dCategory(req.params.id);
 
     return res.status(200).json(
-        {
-            EC: 0,
-            data: result
-        }
+        { ...result }
     )
 }
 
