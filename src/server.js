@@ -22,7 +22,7 @@ app.use(cors({
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
 }));
-app.use('/v1/api/', apiRouters);
+app.use('/api/v1/', apiRouters);
 
 (async () => {
     try {
